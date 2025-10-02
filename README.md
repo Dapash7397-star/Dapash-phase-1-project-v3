@@ -11,3 +11,12 @@
 3. To identify trends in aviation accident frequency and severity over time and across geographical locations.
 ## 4: Data Understanding
 ### a).Set up the environment and import libraries
+# Basic libraries
+import pandas as pd
+import numpy as np
+# Visualization libraries
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
+# Display settings
+pd.set_option("display.max_columns", None)
