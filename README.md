@@ -36,15 +36,18 @@ The primary objective of this analysis is to determine the **lowest-risk aircraf
 ### Visualizations
 
 #### 1. Yearly Accident Trends
-![Yearly Trends](images/yearly_trend.png)  
+<img width="647" height="333" alt="image" src="https://github.com/user-attachments/assets/06d95af1-5c1c-4a87-a546-b6c918cf5d3b" />
+
 *A line chart showing the number of accidents per year, categorized by injury severity.*  
 
 #### 2. Aircraft Damage vs. Fatal Incidents
-![Damage vs Fatality](images/damage_vs_fatal.png)  
+<img width="402" height="278" alt="image" src="https://github.com/user-attachments/assets/13143e9d-8468-4418-9c44-d303613c6d0e" />
+  
 *A stacked bar chart comparing aircraft damage categories against fatal incidents.*  
 
 #### 3. Geographic Distribution of Accidents
-![Geographic Map](images/accident_map.png)  
+<img width="730" height="333" alt="image" src="https://github.com/user-attachments/assets/18adc657-a55c-4e00-a375-56000dba7981" />
+
 *A map visualization showing accident counts by country.*  
 
 ---
