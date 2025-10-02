@@ -62,7 +62,10 @@ The primary objective of this analysis is to determine the **lowest-risk aircraf
 ### Summary of Findings
 1. **Accident trends have decreased over time**, especially in the past two decades, reflecting improved aviation safety standards.  
 2. **Certain aircraft types are more prone to fatal accidents**, highlighting the importance of careful fleet selection.  
-3. **Accidents are concentrated in specific regions**, suggesting that geographic factors influence aviation risk.  
+3. **Accidents are concentrated in specific regions**, suggesting that geographic factors influence aviation risk.
+
+## Recommendations
+### Based on the findings, the company should prioritize aircraft with lower fatality ratios rather than focusing solely on accident counts and place emphasis on manufacturer-specific safety performance when making purchase decisions. Strengthening pilot training, routine maintenance, and safety audits is critical to reducing risk exposure, particularly for models with higher fatal accident proportions. Additionally, management should adopt a data-driven risk framework that integrates historical safety records, geographical trends, and operational factors before expanding into aviation. Finally, ongoing monitoring and alignment with global safety standards will ensure that investment choices are both safe and sustainable in the long term.
 
 ### Next Steps
 - Recommend fleet investment in aircraft types with historically lower fatality rates.  
