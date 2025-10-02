@@ -9,3 +9,5 @@
 1. To assess the distribution and severity of aircraft accidents across different aircraft models and manufacturers.
 2. To analyze the relationship between accident characteristics (fatalities, damage level, risk category) and the likelihood of aircraft being involved in fatal incidents.
 3. To identify trends in aviation accident frequency and severity over time and across geographical locations.
+## 4: Data Understanding
+### a).Set up the environment and import libraries
