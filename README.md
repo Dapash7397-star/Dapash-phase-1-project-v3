@@ -67,11 +67,11 @@ The primary objective of this analysis is to determine the **lowest-risk aircraf
 ## Recommendations
 **Based on the findings, three clear business recommendations emerge:**
 1. **Invest in Low-Risk Aircraft Models**
-Acquire aircraft with consistently lower accident severity rates, as these models provide safer and more reliable operations while strengthening customer and investor trust.
+-Acquire aircraft with consistently lower accident severity rates, as these models provide safer and more reliable operations while strengthening customer and investor trust.
 2. **Avoid High-Risk Models and Hazardous Regions**
-Exclude aircraft types with a history of frequent or fatal incidents and carefully evaluate high-accident regions. Entering safer markets first will reduce exposure to avoidable risks.
+-Exclude aircraft types with a history of frequent or fatal incidents and carefully evaluate high-accident regions. Entering safer markets first will reduce exposure to avoidable risks.
 3. **Adopt Strong Safety Practices**
-Complement fleet selection with robust operational practices such as predictive maintenance systems, rigorous pilot training, and continuous monitoring of flight data. This ensures long-term safety and compliance with international standards.
+-Complement fleet selection with robust operational practices such as predictive maintenance systems, rigorous pilot training, and continuous monitoring of flight data. This ensures long-term safety and compliance with international standards.
 
 ### Next Steps
 - Recommend fleet investment in aircraft types with historically lower fatality rates.  
