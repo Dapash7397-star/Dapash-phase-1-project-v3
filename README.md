@@ -1,21 +1,65 @@
-## 1: Background
-### The company is expanding its portfolio by entering the aviation industry, focusing on both commercial and private air travel. However, aviation carries inherent safety and financial risks, especially when it comes to aircraft accidents, reliability, and maintenance. To ensure a successful and sustainable entry into this industry, the company requires an evidence-based assessment of aircraft safety and associated risks.
-## 2: Project Overview
+# Aviation Risk Analysis Project
 
-### This project leverages historical accident data from the National Transportation Safety Board (NTSB), covering civil aviation accidents and selected incidents from 1962 to 2023. By analyzing this dataset, we aim to identify aircraft types with the lowest safety risks. The insights generated will guide business stakeholders in making informed decisions on which aircraft are most suitable for purchase and operation, minimizing risk exposure and maximizing operational reliability.
-## 3: Business Understanding
-### Goal: Determine which aircraft types are associated with the lowest risk for accidents/incidents.
-### Objectives:
-1. To assess the distribution and severity of aircraft accidents across different aircraft models and manufacturers.
-2. To analyze the relationship between accident characteristics (fatalities, damage level, risk category) and the likelihood of aircraft being involved in fatal incidents.
-3. To identify trends in aviation accident frequency and severity over time and across geographical locations.
-## 4: Data Understanding
-The analysis used data from the National Transportation Safety Board (NTSB), covering civil aviation accidents and selected incidents from 1962 to 2023, including events in the United States and international waters.
-Key features included:
-Aircraft details: model, manufacturer, and type.
-Accident characteristics: fatalities, injuries, damage level, and risk categories.
-Contextual factors: year, location, and country.
-Data preprocessing involved:
-Handling missing values to ensure accuracy.
-Aggregating accident records for meaningful comparisons.
-Structuring variables for effective visualization in the interactive dashboard.
+## Overview
+This project analyzes aviation accident data to provide insights into aircraft safety and risk levels.  
+The analysis was conducted using Python, Pandas, and Tableau to clean, analyze, and visualize aviation accident data.  
+The ultimate goal is to identify patterns that can help business stakeholders make informed decisions about entering the aviation industry.
+
+---
+
+## Business Understanding
+The primary objective of this analysis is to determine the **lowest-risk aircraft** for a company planning to enter the aviation industry.  
+
+### Stakeholders
+- **Business executives**: Need to understand risk levels before investing in aircraft.  
+- **Safety officers/regulators**: Want evidence-based insights on aircraft risks.  
+- **Investors**: Require data-driven justifications for strategic decisions.  
+
+### Key Business Questions
+1. Which types of aircraft are most associated with fatal accidents?  
+2. How have aviation accidents trended over time?  
+3. Which regions or countries report the highest number of accidents?  
+
+---
+
+## Data Understanding and Analysis
+
+### Source of Data
+- **Dataset**: National Transportation Safety Board (NTSB) aviation accident data (1962–2023).  
+- **Link**: [NTSB Accident Data](https://www.ntsb.gov/)  
+
+### Description of Data
+- **Columns**: Year, Country, Aircraft Damage, Fatalities, Injuries, Aircraft Type, etc.  
+- **Size**: Civil aviation accidents and selected incidents across the United States and international waters.  
+- **Cleaning & Preparation**: Missing values handled by imputation/removal, categorical variables standardized.  
+
+### Visualizations
+
+#### 1. Yearly Accident Trends
+![Yearly Trends](images/yearly_trend.png)  
+*A line chart showing the number of accidents per year, categorized by injury severity.*  
+
+#### 2. Aircraft Damage vs. Fatal Incidents
+![Damage vs Fatality](images/damage_vs_fatal.png)  
+*A stacked bar chart comparing aircraft damage categories against fatal incidents.*  
+
+#### 3. Geographic Distribution of Accidents
+![Geographic Map](images/accident_map.png)  
+*A map visualization showing accident counts by country.*  
+
+---
+
+## Conclusion
+
+### Summary of Findings
+1. **Accident trends have decreased over time**, especially in the past two decades, reflecting improved aviation safety standards.  
+2. **Certain aircraft types are more prone to fatal accidents**, highlighting the importance of careful fleet selection.  
+3. **Accidents are concentrated in specific regions**, suggesting that geographic factors influence aviation risk.  
+
+### Next Steps
+- Recommend fleet investment in aircraft types with historically lower fatality rates.  
+- Continue monitoring global accident data for updated trends.  
+- Combine accident data with maintenance and operational cost data for a full risk-benefit analysis.  
+
+---
+
