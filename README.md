@@ -46,7 +46,8 @@ The primary objective of this analysis is to determine the **lowest-risk aircraf
 *A stacked bar chart comparing aircraft damage categories against fatal incidents.*  
 
 #### 3. Geographic Distribution of Accidents
-<img width="730" height="333" alt="image" src="https://github.com/user-attachments/assets/44c1148c-668a-4c30-adbe-fca85449eca7" />
+<img width="730" height="333" alt="image" src="https://github.com/user-attachments/assets/cf25b8ba-a6d1-401c-bc02-d1f1afc6164b" />
+
 
 
 *A map visualization showing accident counts by country.*  
