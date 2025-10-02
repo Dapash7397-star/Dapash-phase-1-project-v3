@@ -10,13 +10,12 @@
 2. To analyze the relationship between accident characteristics (fatalities, damage level, risk category) and the likelihood of aircraft being involved in fatal incidents.
 3. To identify trends in aviation accident frequency and severity over time and across geographical locations.
 ## 4: Data Understanding
-### a).Set up the environment and import libraries
-# Basic libraries
-import pandas as pd
-import numpy as np
-# Visualization libraries
-import matplotlib.pyplot as plt
-import seaborn as sns
-import plotly.express as px
-# Display settings
-pd.set_option("display.max_columns", None)
+The analysis used data from the National Transportation Safety Board (NTSB), covering civil aviation accidents and selected incidents from 1962 to 2023, including events in the United States and international waters.
+Key features included:
+Aircraft details: model, manufacturer, and type.
+Accident characteristics: fatalities, injuries, damage level, and risk categories.
+Contextual factors: year, location, and country.
+Data preprocessing involved:
+Handling missing values to ensure accuracy.
+Aggregating accident records for meaningful comparisons.
+Structuring variables for effective visualization in the interactive dashboard.
