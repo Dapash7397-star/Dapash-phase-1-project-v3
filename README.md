@@ -65,7 +65,13 @@ The primary objective of this analysis is to determine the **lowest-risk aircraf
 3. **Accidents are concentrated in specific regions**, suggesting that geographic factors influence aviation risk.
 
 ## Recommendations
-### Based on the findings, the company should prioritize aircraft with lower fatality ratios rather than focusing solely on accident counts and place emphasis on manufacturer-specific safety performance when making purchase decisions. Strengthening pilot training, routine maintenance, and safety audits is critical to reducing risk exposure, particularly for models with higher fatal accident proportions. Additionally, management should adopt a data-driven risk framework that integrates historical safety records, geographical trends, and operational factors before expanding into aviation. Finally, ongoing monitoring and alignment with global safety standards will ensure that investment choices are both safe and sustainable in the long term.
+**Based on the findings, three clear business recommendations emerge:**
+1. **Invest in Low-Risk Aircraft Models**
+Acquire aircraft with consistently lower accident severity rates, as these models provide safer and more reliable operations while strengthening customer and investor trust.
+2. **Avoid High-Risk Models and Hazardous Regions**
+Exclude aircraft types with a history of frequent or fatal incidents and carefully evaluate high-accident regions. Entering safer markets first will reduce exposure to avoidable risks.
+3. **Adopt Strong Safety Practices**
+Complement fleet selection with robust operational practices such as predictive maintenance systems, rigorous pilot training, and continuous monitoring of flight data. This ensures long-term safety and compliance with international standards.
 
 ### Next Steps
 - Recommend fleet investment in aircraft types with historically lower fatality rates.  
