@@ -56,6 +56,9 @@ The primary objective of this analysis is to determine the **lowest-risk aircraf
 *A map visualization showing accident counts by country.*  
 
 ---
+## My Tableau Dashboard
+<img width="596" height="399" alt="image" src="https://github.com/user-attachments/assets/d0f31261-a1c5-47c3-a1fd-9e6b9e0a8f9d" />
+
 
 ## Conclusion
 
